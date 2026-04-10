@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Mohamed Mattar 👋</h1>
+<h1 align="center">Hey, I'm Mohamed Mattar</h1>
 
 <p align="center">
   Backend developer with a thing for clean architecture and systems that actually work.<br/>
